@@ -1,0 +1,11 @@
+body {
+  overflow-y: auto !important;
+}
+.slick-prev:before,
+.slick-next:before {
+  display: none;
+}
+
+*:focus {
+  outline: 0;
+}
